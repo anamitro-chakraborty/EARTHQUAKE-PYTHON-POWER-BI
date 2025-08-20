@@ -32,6 +32,9 @@ Data Wrangling (Python & Excel)
             Moderate (5–6),High (6–8),Very High (>8)
 -- Cleaned country names for consistency.
 
+![Uploading 3 excel.png…]()
+
+
 Visualization (Power BI)
 -- Total Earthquakes → KPI Card.
 -- Strongest EQ Country → DAX-based measure. 
