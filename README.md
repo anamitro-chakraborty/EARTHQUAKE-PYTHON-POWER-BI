@@ -12,6 +12,9 @@ Data Collection (Python)
 
 Pulled earthquake data (GeoJSON) from the USGS Earthquake API (Python)
 
+
+<img width="1493" height="672" alt="1python" src="https://github.com/user-attachments/assets/641b31d8-386a-429d-9ef0-d3efcc4f9b97" />
+
 Extracted features:
 -- Date
 -- Magnitude
@@ -19,6 +22,9 @@ Extracted features:
 -- Depth (km)
 -- Latitude & Longitude
 -- Country
+
+
+<img width="1480" height="767" alt="2python" src="https://github.com/user-attachments/assets/b4efce7d-07c1-4fdd-b5f2-8a8b10616b95" />
 
 Data Wrangling (Python & Excel)
 -- Converted nested JSON to a structured CSV file.
